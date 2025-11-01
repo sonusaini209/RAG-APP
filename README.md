@@ -1,10 +1,10 @@
-# 📚 Smart Document QA Assistant
+#  Smart Document QA Assistant
 
 A **Retrieval-Augmented Generation (RAG)** Streamlit app that lets you upload any document (PDF or TXT) and ask questions about it using OpenAI GPT models.
 
 ---
 
-## 🚀 Features
+##  Features
 - Upload PDF or TXT files.
 - Clean, concise AI answers.
 - Built-in document text cleaning.
@@ -13,7 +13,7 @@ A **Retrieval-Augmented Generation (RAG)** Streamlit app that lets you upload an
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 - **LangChain** – for the RAG pipeline
 - **OpenAI GPT-4o-mini** – for LLM responses
 - **FAISS** – for vector search
@@ -22,7 +22,7 @@ A **Retrieval-Augmented Generation (RAG)** Streamlit app that lets you upload an
 
 ---
 
-## ⚙️ Local Setup
+##  Local Setup
 
 ```bash
 git clone https://github.com/<your-username>/smart-doc-qa.git
