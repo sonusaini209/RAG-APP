@@ -4,6 +4,10 @@ A **Retrieval-Augmented Generation (RAG)** Streamlit app that lets you upload an
 
 ---
 
+**Live Demo:** [Smart Document QA Assistant on Render](https://rag-app-1-p6om.onrender.com/)
+
+---
+
 ##  Features
 - Upload PDF or TXT files.
 - Clean, concise AI answers.
